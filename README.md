@@ -2,6 +2,9 @@
 
 A computer vision based automated script checking system that detects incorrect symbols on answer sheets and uses a robotic arm to mark or correct errors.
 
+<img width="783" height="588" alt="image" src="https://github.com/user-attachments/assets/8223792f-0c0d-48c6-8294-fb5f2eb4d3ad" />
+
+
 ## Overview
 
 This project combines computer vision and robotics to automate evaluation tasks.
